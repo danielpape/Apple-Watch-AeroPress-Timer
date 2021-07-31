@@ -17,6 +17,7 @@
 		2994670326B54A2F001EAC9B /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2994670226B54A2F001EAC9B /* ComplicationController.swift */; };
 		2994670526B54A2F001EAC9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2994670426B54A2F001EAC9B /* Assets.xcassets */; };
 		2994670826B54A2F001EAC9B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2994670726B54A2F001EAC9B /* Preview Assets.xcassets */; };
+		2994671926B55543001EAC9B /* BrewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2994671826B55543001EAC9B /* BrewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		2994670726B54A2F001EAC9B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2994670926B54A2F001EAC9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2994670A26B54A2F001EAC9B /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		2994671826B55543001EAC9B /* BrewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			children = (
 				299466FA26B54A2F001EAC9B /* aeropresstimerApp.swift */,
 				299466FC26B54A2F001EAC9B /* ContentView.swift */,
+				2994671826B55543001EAC9B /* BrewView.swift */,
 				299466FE26B54A2F001EAC9B /* NotificationController.swift */,
 				2994670026B54A2F001EAC9B /* NotificationView.swift */,
 				2994670226B54A2F001EAC9B /* ComplicationController.swift */,
@@ -271,6 +274,7 @@
 				299466FD26B54A2F001EAC9B /* ContentView.swift in Sources */,
 				2994670326B54A2F001EAC9B /* ComplicationController.swift in Sources */,
 				299466FB26B54A2F001EAC9B /* aeropresstimerApp.swift in Sources */,
+				2994671926B55543001EAC9B /* BrewView.swift in Sources */,
 				2994670126B54A2F001EAC9B /* NotificationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
